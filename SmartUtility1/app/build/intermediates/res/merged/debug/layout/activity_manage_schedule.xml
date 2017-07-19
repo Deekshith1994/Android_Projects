@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="uncc.vedhasd.smartutility.ManageSchedule"
+    android:background="#ae32bf63">
+
+    <TextView
+        android:id="@+id/tuserHeaderMan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USER: "
+        android:textSize="20dp"
+        android:textColor="#231a4b"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bUtility"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Manage schedule from utility"
+        android:layout_marginTop="50dp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/bHome"
+        android:layout_below="@+id/bUtility"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Manage Schedule from home"
+        android:layout_marginTop="20dp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/bCommit"
+        android:layout_below="@+id/bHome"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Commit to schedule"
+        android:layout_marginTop="20dp">
+
+    </Button>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/kdeek/AndroidStudioProjects/SmartUtility1/app/src/main/res/layout/activity_manage_schedule.xml -->

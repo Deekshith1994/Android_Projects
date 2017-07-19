@@ -1,0 +1,217 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* UserInterfaceTest\
+* UserInterfaceTest\.classpath
+* UserInterfaceTest\.project
+* UserInterfaceTest\.settings\
+* UserInterfaceTest\.settings\org.eclipse.jdt.core.prefs
+* UserInterfaceTest\AndroidManifest.xml
+* UserInterfaceTest\bin\
+* UserInterfaceTest\bin\AndroidManifest.xml
+* UserInterfaceTest\bin\UserInterfaceTest.apk
+* UserInterfaceTest\bin\classes.dex
+* UserInterfaceTest\bin\classes\
+* UserInterfaceTest\bin\classes\uncc\
+* UserInterfaceTest\bin\classes\uncc\abilash\
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity$4.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity$5.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Android_SQLActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity$1$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity$2$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\AnswerActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Appliance.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Base64$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Base64$InputStream.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Base64$OutputStream.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Base64.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BlogSpotActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BlogSpotActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BlogSpotActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BlogSpotActivity$4.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BlogSpotActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\BuildConfig.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CameraPreview.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\Comments.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$3$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$3$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$4.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$5.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$6.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$7.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity$8.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\CommunityHomeActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ForgotPasswordActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ForgotPasswordActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ForgotPasswordActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxHomeActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxHomeActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxHomeActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxHomeActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxItemActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxItemActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\InboxList.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ManageAccountActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ManageAccountActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ManageAccountActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ManageAccountActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\PhotoHandler.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$4.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$5$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$5.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$6$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$6.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity$7.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\QuestionsActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$array.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$attr.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$drawable.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$id.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$layout.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R$string.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\R.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\RegisterActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\RegisterActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\RegisterActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\RegisterActivity$4.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\RegisterActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\UserHomeActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\UserHomeActivity$2.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\UserHomeActivity$3.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\UserHomeActivity.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ViewReplyActivity$1.class
+* UserInterfaceTest\bin\classes\uncc\abilash\edu\ViewReplyActivity.class
+* UserInterfaceTest\bin\dexedLibs\
+* UserInterfaceTest\bin\dexedLibs\android-support-v4-3d6ab348da2b55705597af050b94b5b8.jar
+* UserInterfaceTest\bin\jarlist.cache
+* UserInterfaceTest\bin\res\
+* UserInterfaceTest\bin\res\drawable-hdpi\
+* UserInterfaceTest\bin\res\drawable-hdpi\ic_launcher.png
+* UserInterfaceTest\bin\res\drawable-ldpi\
+* UserInterfaceTest\bin\res\drawable-ldpi\ic_launcher.png
+* UserInterfaceTest\bin\res\drawable-mdpi\
+* UserInterfaceTest\bin\res\drawable-mdpi\ic_launcher.png
+* UserInterfaceTest\bin\res\drawable-xhdpi\
+* UserInterfaceTest\bin\res\drawable-xhdpi\ic_launcher.png
+* UserInterfaceTest\bin\resources.ap_
+* UserInterfaceTest\gen\
+* UserInterfaceTest\gen\uncc\
+* UserInterfaceTest\gen\uncc\abilash\
+* UserInterfaceTest\gen\uncc\abilash\edu\
+* UserInterfaceTest\gen\uncc\abilash\edu\BuildConfig.java
+* UserInterfaceTest\gen\uncc\abilash\edu\R.java
+* UserInterfaceTest\libs\
+* UserInterfaceTest\libs\android-support-v4.jar
+* UserInterfaceTest\lint.xml
+* UserInterfaceTest\proguard-project.txt
+* UserInterfaceTest\project.properties
+* UserInterfaceTest\res\
+* UserInterfaceTest\res\drawable-hdpi\
+* UserInterfaceTest\res\drawable-hdpi\ic_launcher.png
+* UserInterfaceTest\res\drawable-ldpi\
+* UserInterfaceTest\res\drawable-ldpi\ic_launcher.png
+* UserInterfaceTest\res\drawable-mdpi\
+* UserInterfaceTest\res\drawable-mdpi\ic_launcher.png
+* UserInterfaceTest\res\drawable-xhdpi\
+* UserInterfaceTest\res\drawable-xhdpi\ic_launcher.png
+* UserInterfaceTest\res\layout\
+* UserInterfaceTest\res\layout\answer.xml
+* UserInterfaceTest\res\layout\blog.xml
+* UserInterfaceTest\res\layout\community.xml
+* UserInterfaceTest\res\layout\forgot_password.xml
+* UserInterfaceTest\res\layout\home.xml
+* UserInterfaceTest\res\layout\inbox.xml
+* UserInterfaceTest\res\layout\inbox_home.xml
+* UserInterfaceTest\res\layout\inbox_item.xml
+* UserInterfaceTest\res\layout\list_item.xml
+* UserInterfaceTest\res\layout\manage_account.xml
+* UserInterfaceTest\res\layout\question.xml
+* UserInterfaceTest\res\layout\registration.xml
+* UserInterfaceTest\res\layout\user_home.xml
+* UserInterfaceTest\res\layout\view_answer.xml
+* UserInterfaceTest\res\values\
+* UserInterfaceTest\res\values\strings.xml
+* UserInterfaceTest\src\
+* UserInterfaceTest\src\uncc\
+* UserInterfaceTest\src\uncc\abilash\
+* UserInterfaceTest\src\uncc\abilash\edu\
+* UserInterfaceTest\src\uncc\abilash\edu\Android_SQLActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\AnswerActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\Appliance.java
+* UserInterfaceTest\src\uncc\abilash\edu\Base64.java
+* UserInterfaceTest\src\uncc\abilash\edu\BlogSpotActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\CameraPreview.java
+* UserInterfaceTest\src\uncc\abilash\edu\Comments.java
+* UserInterfaceTest\src\uncc\abilash\edu\CommunityHomeActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\ForgotPasswordActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\InboxActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\InboxHomeActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\InboxItemActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\InboxList.java
+* UserInterfaceTest\src\uncc\abilash\edu\ManageAccountActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\PhotoHandler.java
+* UserInterfaceTest\src\uncc\abilash\edu\QuestionsActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\RegisterActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\UserHomeActivity.java
+* UserInterfaceTest\src\uncc\abilash\edu\ViewReplyActivity.java
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

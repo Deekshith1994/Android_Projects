@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass2a</string>
+    <string name="area_of_triangle">Area Of Triangle</string>
+    <string name="area_of_square">Area Of Square</string>
+    <string name="area_of_circle">Area Of Circle</string>
+    <string name="area_of_rectangle">Area Of Rectangle</string>
+    <string name="clear_all">Clear All</string>
+    <string name="area">Area</string>
+    <string name="length_2">Length 2</string>
+    <string name="length_1">Length 1</string>
+</resources>

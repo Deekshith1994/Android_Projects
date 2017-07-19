@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/track_ID"
+        android:layout_gravity="center_horizontal"
+        android:text=""
+        android:hint="Enter Tracking ID" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TableRow
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+            android:id="@+id/button1"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:text="Track"
+                android:hint="Enter Tracking ID" />
+
+            <Button
+            android:id="@+id/button2"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+                android:layout_marginLeft="40dp"
+            android:text="Manage Account" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:text="Log Out"
+                android:layout_marginLeft="40dp"
+                android:layout_column="3" />
+        </TableRow>
+
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_marginTop="40dp"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="139dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Source City"
+                android:id="@+id/sCity_lab"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/sCity_id"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/sCity_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Destination City"
+                android:id="@+id/dCity_lab"
+                android:layout_below="@+id/sCity_lab"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/dCity_id"
+                android:layout_below="@+id/sCity_lab"
+                android:layout_toRightOf="@+id/dCity_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Present City"
+                android:id="@+id/pCity_lab"
+                android:layout_below="@+id/dCity_lab"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/pCity_id"
+                android:layout_below="@+id/dCity_id"
+                android:layout_alignRight="@+id/pCity_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text= "Status"
+                android:id="@+id/status_lab"
+                android:layout_below="@+id/pCity_lab"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/status_id"
+                android:layout_below="@+id/pCity_id"
+                android:layout_alignRight="@+id/status_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text= "Packet Collected"
+                android:id="@+id/startDate_lab"
+                android:layout_below="@+id/status_lab"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/startDate_id"
+                android:layout_below="@+id/pCity_id"
+                android:layout_alignRight="@+id/status_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text= "Expected Delivery"
+                android:id="@+id/endDate_lab"
+                android:layout_below="@+id/startDate_lab"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/endDate_id"
+                android:layout_below="@+id/startDate_id"
+                android:layout_alignRight="@+id/startDate_lab"
+                android:layout_marginLeft="40dp"
+                android:layout_column="2" />
+        </TableRow>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Packet Collected"
+                android:id="@+id/startDate_lab"
+                android:layout_column="0" />
+
+            TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/startDate_id"
+                android:layout_column="2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Delivery"
+                android:id="@+id/endDate_lab"
+                android:layout_column="0" />
+
+            TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:id="@+id/endDate_id"
+                android:layout_column="2" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

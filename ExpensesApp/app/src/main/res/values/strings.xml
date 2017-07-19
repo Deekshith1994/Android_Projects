@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpensesApp</string>
+    <string name="addButton">Add Expense</string>
+    <string name="editButton">Edit Expense</string>
+    <string name="deleteButton">Delete Expense</string>
+    <string name="showButton">Show Expenses</string>
+    <string name="finishButton">Finish</string>
+    <string name="addTitle">Add An Expense</string>
+    <string name="addTitle1">Add An Expense</string>
+    <string name="nameTitle">Expense Name</string>
+    <string name="catogeryTitle">Catogery</string>
+    <string name="amountTitle">Amount</string>
+    <string name="amntTitle">Amount</string>
+    <string name="dateTitle">Date</string>
+    <string name="receiptTitle">Receipt</string>
+    <string name="addButton1">Add Expense</string>
+    <array name="cat">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Others</item>
+    </array>
+</resources>

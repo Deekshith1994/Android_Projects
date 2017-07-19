@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\pre-dexed\debug\classes-82067503db4b6ee613726ab03ef5cc275c5a466b.jar" />
+    </item>
+    <item
+        jar="C:\Users\kdeek\Documents\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff917259b36c8732228f3509f29561fc7ff27545.jar" />
+    </item>
+    <item
+        jar="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\pre-dexed\debug\classes-92ac4b8dd48cf0459728f4a2954ff83446c412d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\kdeek\AndroidStudioProjects\SmartUtility1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7d7d9dd1782f365534218ea320692c8f60be357f.jar" />
+    </item>
+
+</items>

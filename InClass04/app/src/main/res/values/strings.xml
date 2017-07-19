@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="select_passwords_count">Select Passwords Count : </string>
+    <string name="_1">1</string>
+    <string name="select_password_length">Select Password Length : </string>
+    <string name="_8">8</string>
+    <string name="password">Password :</string>
+    <string name="select_password">Select Password</string>
+    <string name="generate_passwords_async">Generate Passwords (ASYNC)</string>
+    <string name="generate_passwords_thread">Generate Passwords (Thread)</string>
+</resources>
